@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">TIC 12 Menu</string>
+    <string name="tituloPrincipal">Menu do Restaurante</string>
+    <string name="subtituloPrincipal">Indique sua escolha abaixo selecionando ou desmarcando o pedido desejado.</string>
+
+    <string name="secao_Entradas">Entradas</string>
+    <string name="secao_Pratos_Principais">Pratos Principais</string>
+    <string name="secao_Bebidas">Bebidas</string>
+    <string name="secao_Sobremesas">Sobremesas</string>
+    <string name="preferencias_cliente">Preferências do Cliente:</string>
+    <string name="placeholder_preferencias">Adicione suas preferências aqui.</string>
+
+
+    <string name="nome_Entrada1">Pastelzinho de queijo</string>
+    <string name="descricao_Entrada1">12 unidades.</string>
+    <string name="preco_Entrada1">R$ 25,90.</string>
+    <string name="tempo_Entrada1">Tempo de Preparo: 10 min </string>
+
+    <string name="nome_Entrada2">Bolinha de carne de sol</string>
+    <string name="descricao_Entrada2">12 unidades.</string>
+    <string name="preco_Entrada2">R$ 26,90.</string>
+    <string name="tempo_Entrada2">Tempo de Preparo: 10 min </string>
+
+    <string name="nome_Principal1">Carne de sol ao leite</string>
+    <string name="descricao_Principal1">Carne 400g, baião 720g, macaxeira 150g, paçoca e banana milanesa.</string>
+    <string name="preco_Principal1">R$ 91,90.</string>
+    <string name="tempo_Principal1">Tempo de Preparo: 30 min </string>
+
+    <string name="nome_Principal2">Filé ao Molho Madeira</string>
+    <string name="descricao_Principal2">300g de Filé mignon, 700g de arroz à piemontês e batata.</string>
+    <string name="preco_Principal2">R$ 86,90.</string>
+    <string name="tempo_Principal2">Tempo de Preparo: 25 min </string>
+
+    <string name="nome_Bebida1">Drink Timo</string>
+    <string name="descricao_Bebida1">200ml.</string>
+    <string name="preco_Bebida1">R$ 17,90.</string>
+    <string name="tempo_Bebida1">Tempo de Preparo: 5 min </string>
+
+    <string name="nome_Bebida2">Drink Daiquiri</string>
+    <string name="descricao_Bebida2">150ml.</string>
+    <string name="preco_Bebida2">R$ 15,90.</string>
+    <string name="tempo_Bebida2">Tempo de Preparo: 5 min </string>
+
+    <string name="nome_Sobremesa1">Tortinha de Brigadeiro</string>
+    <string name="descricao_Sobremesa1">1 Unidade.</string>
+    <string name="preco_Sobremesa1">R$ 13,90.</string>
+    <string name="tempo_Sobremesa1">Tempo de Preparo: 7 min </string>
+
+    <string name="nome_Sobremesa2">Tortinha de Nutella</string>
+    <string name="descricao_Sobremesa2">1 Unidade.</string>
+    <string name="preco_Sobremesa2">R$ 18,90.</string>
+    <string name="tempo_Sobremesa2">Tempo de Preparo: 8 min</string>
+*
+    <string name="resumo_pedido">Resumo do Pedido:</string>
+    <string name="label_itens_Selecionados">Pratos Selecionados:</string>
+    <string name="itens_Selecionados">Nenhum prato selecionado.</string>
+    <string name="label_Tempo_Total">Tempo Médio de Preparo:</string>
+    <string name="tempo_Total">0 minutos.</string>
+    <string name="label_Preco_Total">Valor Total do Pedido:</string>
+    <string name="preco_Total">R$ 0.00</string>
+    <string name="botao_Confirmar_Pedido">Realizar Pedido</string>
+</resources>
